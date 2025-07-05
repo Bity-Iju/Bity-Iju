@@ -1,16 +1,12 @@
-<!-- 
-Hello! You've found the source code for my portfolio README.
-Feel free to use this as a template for your own.
--->
-
 <!-- Header -->
 <p align="left"> 
-  <img alt="Top Langs" height="30px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" />
+  <img alt="Fidelis' Portfolio" height="30px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" />
 </p>
 <p align="right">
   <a href="#-about-me">About</a> •
   <a href="#-skills">Skills</a> •
-  <a href="#-projects">Projects</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-education">Education</a> •
   <a href="#-contact">Contact</a>
 </p>
 
@@ -19,33 +15,33 @@ Feel free to use this as a template for your own.
   <tr>
     <td align="center" width="600px">
       <h3 align="left">Hello, It's Me 👋</h3>
-      <h1 align="left">I'm [Your Name]</h1>
-      <h3 align="left">And I'm a <b>Frontend Developer</b></h3>
+      <h1 align="left">I'm FIDELIS BITRUS IJUDONA</h1>
+      <h3 align="left">And I'm a <b>Data Analyst</b></h3>
       <p align="left">
-        I am a passionate developer with a knack for creating elegant and efficient solutions. Here's a little more about me...
+        A passionate and detail-oriented analyst with a knack for extracting actionable insights, driving data-informed decisions, and creating positive social impact.
       </p>
       <!-- Socials -->
       <p align="left">
-        <a href="[YOUR-LINKEDIN-URL]" target="_blank">
+        <a href="https://linkedin.com/in/bity-iju" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="[YOUR-TWITTER-URL]" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-        </a>
-        <a href="mailto:[YOUR-EMAIL-ADDRESS]">
+        <a href="mailto:bityruthy@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-      </p>
-      <!-- CV Button -->
-      <p align="left">
         <a href="assets/resume.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Download-CV-13B5B1?style=for-the-badge" alt="Download CV">
         </a>
       </p>
+      
     </td>
     <td align="center" width="300px">
-      <!-- Your Profile Picture -->
-      <img src="assets/profile-pic.png" alt="Your Name" height="250" />
+      <!-- 
+        IMPORTANT:
+        1. Create a profile picture with a hexagon frame (use Canva!).
+        2. Upload it to an 'assets' folder in your repository.
+        3. Make sure the path below matches your file.
+      -->
+      <img src="assets/profile-pic.png" alt="Fidelis Bitrus Ijudona" height="250" />
     </td>
   </tr>
 </table>
@@ -55,35 +51,81 @@ Feel free to use this as a template for your own.
 ### 🙋‍♂️ About Me
 <a id="-about-me"></a>
 
-My contributions to data visualization and dashboard creation, utilizing advanced Excel techniques and a focus on workflow optimization. With a passion for visual storytelling, I also support project goals through precise reporting and collaborative problem-solving. 
+Motivated and detail-oriented Data Analyst with over five years of experience in data management, analysis, and reporting within healthcare, development, and business settings. Proficient in leveraging advanced tools such as Microsoft Excel, Tableau, Power BI, and SQL to extract actionable insights and drive data-informed decision-making. I am skilled in designing dashboards, automating workflows, and implementing monitoring and evaluation (M&E) frameworks to measure progress toward sustainability goals. Adept at collaborating across multidisciplinary teams and communicating complex analytical findings to technical and non-technical stakeholders.
 
-Currently has a HND in Computer Science at The Federal Polytechnic, Mubi, with a specialization in technical tools and health data systems. Skilled in EMR systems Data Manager (Entry, Collection, Concurrence), DHIS2 and NDR reporting, Data migration and lots more, they enable healthcare initiatives through meticulous data management and validation.
+- **Languages:** Fluent in English, Hausa, and Marghi.
+- **Interests:** Traveling, leveraging music and art for creativity, and exploring emerging technologies.
 
 ---
 
 ### 🛠️ Skills
 <a id="-skills"></a>
 
-- **Languages:** JavaScript, HTML5, CSS3, TypeScript
-- **Frameworks:** React, Next.js, Vue.js
-- **Tools:** Git, Webpack, Docker, Figma
+| Category                     | Skills                                                                     |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| **Data Analysis & Tools**    | Microsoft Excel (Advanced), Power BI, Tableau, SQL, M&E Frameworks, DHIS2  |
+| **Web & Database**           | PHP, JavaScript, HTML, CSS, MySQL                                          |
+| **Graphic Design**           | CorelDraw, Canva                                                           |
+| **Project Management**       | Data Quality Assurance (DQA), Stakeholder Communication, Team Training     |
 
 ---
 
-### 🚀 Projects
-<a id="-projects"></a>
+### 💼 Professional Experience
+<a id="-experience"></a>
 
-| Project Name      | Description                               | Link                               |
-| ----------------- | ----------------------------------------- | ---------------------------------- |
-| **Project One**   | A brief description of your project.      | [Live Demo](https://example.com)   |
-| **Project Two**   | A brief description of your project.      | [GitHub Repo](https://github.com/) |
+**Data Assistant** @ Achieving Health Nigeria Initiative (AHNi) | _2025_
+- Monitored performance indicators, validated data for inconsistencies, and conducted routine Data Quality Assurance (DQA).
+- Supported M&E officers with data collection, entry, and reporting into systems like DHIS2, EMID, and LAMISPlus.
+
+**Graphic Designer (Volunteer)** @ Geospatial Analytics Technology (GeoAnalTech) - Virtual | _2025_
+- Created branding materials including logos, banners, and animations using CorelDraw and Canva.
+
+**Data Entry Clerk & Junior Data Analyst** @ AHNi, General Hospital Mubi | _2022 – 2024_
+- Designed and developed high-quality dashboards in Excel to track organizational performance metrics and KPIs.
+- Streamlined data entry processes, reducing errors by 20% and improving operational efficiency.
+- Trained new staff on data entry software, enhancing team productivity and accuracy.
+
+**Data Migration Specialist** @ Transition of TIMEC-RISE to AHNI | _2022_
+- Facilitated seamless data migration by organizing, sorting, and verifying input data against original documents.
+
+**Computer Operator & Graphic Designer** @ Na-No Computer Business Center | _2020 – 2022_
+- Designed creative print materials and provided technical support for software and hardware.
+
+**Computer Instructor** @ G-Times Global Trend | _2016 – 2017_
+- Conducted tutoring sessions and taught proficiency in Microsoft Office Suite.
+
+---
+
+### 🏆 Key Achievements
+<a id="-achievements"></a>
+
+- **Efficiency:** Reduced data entry time by 15% and minimized errors at General Hospital Mubi.
+- **Reporting:** Created dynamic dashboards that improved reporting efficiency (e.g., Case Manager Progress Dashboard, DQA Template, Radet Validator Analyzer).
+- **Training:** Successfully trained over 10 team members on data entry best practices, enhancing team performance by 67%.
+
+---
+
+### 🎓 Education & Certifications
+<a id="-education"></a>
+
+#### Education
+- **Higher National Diploma (HND), Computer Science** | The Federal Polytechnic, Mubi (2022 – 2024)
+- **National Diploma (ND), Computer Science** | The Federal Polytechnic, Mubi (2019 – 2021)
+
+#### Certifications
+- **Mega Microsoft Office Course** - Udemy (2025)
+- **Canva for Social Media Graphic Design and Video Editing** - Udemy (2025)
+- **Microsoft Office Specialist: Excel Certification** - Geospatial Analytics Technology (2024)
+- **Charts, Dashboards, Math & Text Functions in Excel** - Coursera (2024)
 
 ---
 
 ### 📫 Contact
 <a id="-contact"></a>
 
-Feel free to reach out! I'm always open to connecting and discussing new projects.
+I'm always open to connecting and discussing new projects. Feel free to reach out!
 
-- **Email:** `[YOUR-EMAIL-ADDRESS]`
-- **LinkedIn:** `[YOUR-LINKEDIN-URL]`
+- **Email:** `bityruthy@gmail.com`
+- **LinkedIn:** [linkedin.com/in/bity-iju](https://linkedin.com/in/bity-iju)
+
+<br>
