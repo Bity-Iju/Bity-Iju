@@ -5,6 +5,7 @@
 <p align="right">
   <a href="#-about-me">About</a> •
   <a href="#-skills">Skills</a> •
+  <a href="#-projects">Projects</a> •
   <a href="#-experience">Experience</a> •
   <a href="#-education">Education</a> •
   <a href="#-contact">Contact</a>
@@ -37,7 +38,6 @@
       </p>
     </td>
     <td align="center" width="300px">
-      <!-- I've updated this to use your exact filename -->
       <img src="your-profile-picture.jpg" alt="Fidelis Bitrus Ijudona" height="250" />
     </td>
   </tr>
@@ -64,6 +64,35 @@ Motivated and detail-oriented Data Analyst with over five years of experience in
 | **Web & Database**           | PHP, JavaScript, HTML, CSS, MySQL                                          |
 | **Graphic Design**           | CorelDraw, Canva                                                           |
 | **Project Management**       | Data Quality Assurance (DQA), Stakeholder Communication, Team Training     |
+
+---
+
+### 🚀 Projects Showcase
+<a id="-projects"></a>
+
+Here are some of the data analysis and dashboarding tools I have developed.
+
+#### 1. Viral Load & Patient Treatment Dashboard
+A comprehensive tool built in Microsoft Excel to monitor and report on key healthcare metrics for the Achieving Health Nigeria Initiative (AHNi). It features a user-friendly navigation menu and automates the consolidation of complex data related to patient treatment, HIV/TB, Cervical Cancer, and Viral Load results.
+
+<!-- CORRECTED IMAGE FILENAME BELOW -->
+<img src="viral-load-dashboard.png" alt="Viral Load Dashboard" width="700"/>
+<br>
+
+#### 2. Daily Performance Tracker (DPT) Template
+The Daily Performance Tracker is designed to streamline the documentation of patient outcomes across various health interventions. Each day, entries should include a summary of total patients treated (TX_Cur), new cases identified (Tx_New), and follow-up appointments scheduled (Screening and Refilled). Other sections focus on key areas such as Cervical Cancer screenings, HIV/TB testing and scrreening, and case finding, capturing essential data like the number of screenings conducted, positive results, and referrals made.
+
+<!-- CORRECTED IMAGE FILENAME BELOW -->
+<img src="data-details.png" alt="Data Details" width="700"/>
+
+
+---
+
+#### 2. Case Manager's Progress Dashboard
+This dynamic dashboard tracks the performance of case managers by visualizing key metrics such as remaining gaps, initial gaps, and covered gaps for patient services. It provides an at-a-glance view of progress on refills, sample collection, and biometric data, enabling data-driven decisions to improve patient care.
+
+<!-- CORRECTED IMAGE FILENAME BELOW -->
+<img src="case-manager-dashboard.png" alt="Case Manager Dashboard" width="700"/>
 
 ---
 
