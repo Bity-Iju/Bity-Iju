@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="300px">
       <!-- The link is now directly to the file in your root directory -->
-      <img src="profile-pic.png" alt="Fidelis Bitrus Ijudona" height="250" />
+      <img src="your-profile-picture.jpg" alt="Fidelis Bitrus Ijudona" height="250" />
     </td>
   </tr>
 </table>
