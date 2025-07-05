@@ -1,134 +1,81 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fidelis Bitrus Ijudona - Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
+# Hi, I'm Bity Iju! 👋
 
-    <header id="home">
-        <nav>
-            <div class="logo">
-                <a href="#">Your Name</a>
-            </div>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About Me</a></li>
-                <li><a href="#resume">Resume</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-        <div class="hero-content">
-            <div class="hero-text">
-                <h1>Hi, I'm Fidelis Bitrus Ijudona</h1>
-                <p>Welcome to my portfolio! Explore my work and projects.</p>
-                <div class="social-links">
-                    <a href="https://github.com/Bity-Iju" target="_blank"><i class="fab fa-github"></i></a>
-                    <a href="www.linkedin.com/in/bity-iju" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </div>
-            </div>
-            <div class="hero-image">
-                <img src="your-profile-picture.jpg" alt="Your Profile Picture">
-            </div>
-        </div>
-    </header>
+### An aspiring Front-End Developer from Nigeria with a passion for building beautiful and responsive web applications.
 
-    <section id="about" class="section-padding">
-        <h2>About Me</h2>
-        <div class="about-content">
-            <p>
-                Geospatial Analytics Technologies benefits from contributions to data visualization and dashboard creation, 
-                utilizing advanced Excel techniques and a focus on workflow optimization. With a passion for visual storytelling, 
-                they support project goals through precise reporting and collaborative problem-solving.  
-            </p>
-            <p>
-                Currently has a HND in Computer Science at The Federal Polytechnic, Mubi, with a specialization in technical tools and health data systems. 
-                Skilled in EMR systems, NDR reporting, and data migration, they enable healthcare initiatives through meticulous data management and validation.
-            </p>
-            <h3>Skills</h3>
-            <div class="skills-grid">
-                <div class="skill-category">
-                    <h4>Database Management</h4>
-                    <ul>
-                        <li>PostgreSQL</li>
-                        <li>DHIS2</li>
-                    </ul>
-                </div>
-                <div class="skill-category">
-                    <h4>Data Analysis</h4>
-                    <ul>
-                        <li>Quantitative Data Analysis</li>
-                        <li>Qualitative Data Analysis</li>
-                    </ul>
-                </div>
-                <div class="skill-category">
-                    <h4>Software & Tools</h4>
-                    <ul>
-                        <li>Excel</li>
-                        <li>PowerBI</li>
-                        <li>Tableau</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bity-iju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bity-iju" height="30" width="40" /></a>
+</p>
 
-    <section id="resume" class="section-padding">
-        <h2>My Resume</h2>
-        <p>You can download my full resume here:</p>
-        <a href="your-resume.pdf" class="btn" target="_blank">Download Resume</a>
-    </section>
+---
 
-    <section id="projects" class="section-padding">
-        <h2>Featured Stories & Projects</h2>
-        <div class="projects-grid">
-            <div class="project-card">
-                <img src="project1-image.jpg" alt="Project 1 Image">
-                <h3>Project Title 1</h3>
-                <p>Brief description of Project 1, highlighting your role and impact.</p>
-                <a href="#" class="btn-small">Read More</a>
-            </div>
-            <div class="project-card">
-                <img src="project2-image.jpg" alt="Project 2 Image">
-                <h3>Project Title 2</h3>
-                <p>Brief description of Project 2, highlighting your role and impact.</p>
-                <a href="#" class="btn-small">Read More</a>
-            </div>
-            </div>
-        <div class="pagination">
-            <a href="#" class="active">1</a>
-            <a href="#">2</a>
-            <a href="#">3</a>
-            <a href="#">&raquo;</a>
-        </div>
-    </section>
+### 👨‍💻 About Me
 
-    <section id="blog" class="section-padding">
-        <h2>My Blog</h2>
-        <p>Coming soon! Stay tuned for insights and articles on data, technology, and more.</p>
-    </section>
+I am a detail-oriented developer focused on crafting intuitive and engaging user interfaces. With a strong foundation in modern front-end technologies, I am passionate about writing clean, efficient code and solving real-world problems. I am a quick learner, a collaborative team player, and I am eager to contribute to innovative projects.
 
-    <section id="contact" class="section-padding">
-        <h2>Get In Touch</h2>
-        <div class="contact-info">
-            <p><i class="fas fa-map-marker-alt"></i> Barama, Mubi, Adamawa State</p>
-            <p><i class="fas fa-phone"></i> +234 (0) 903 133 5993)</p>
-            <p><i class="fas fa-envelope"></i> bityruthy@gmail.com</p>
-            <div class="social-links-contact">
-                <a href="https://github.com/Bity-Iju" target="_blank"><i class="fab fa-github"></i></a>
-                <a href="www.linkedin.com/in/bity-iju" target="_blank"><i class="fab fa-linkedin"></i></a>
-            </div>
-        </div>
-    </section>
+- 🌱 I’m currently deepening my knowledge in **Next.js and TypeScript**.
+- 💬 Ask me about **React, JavaScript, Tailwind CSS, and creating responsive designs**.
+- 📫 How to reach me: **bity.iju.dev@email.com** <!-- Change this to your actual email -->
+- 📄 You can view my resume here: [**My Resume**](./Bity_Iju_Resume.pdf) <!-- Don't forget to upload your resume PDF! -->
 
-    <footer>
-        <p>&copy; 2025 Bity Iu. All rights reserved.</p>
-    </footer>
+---
 
-    <script src="script.js"></script>
-</body>
-</html>
+### 🛠️ My Skill Set
+
+Here are some of the technologies I work with:
+
+**Languages & Frameworks:**
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
+
+**Tools & Platforms:**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🚀 My Projects
+
+<!-- 
+  V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+  EDIT THIS SECTION WITH YOUR REAL PROJECTS! 
+  Find your project repository URL and update the links below.
+  V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V 
+-->
+
+| Project Name | Description | Technologies | Link(s) |
+|--------------|-------------|--------------|---------|
+| **[Your Project Name 1]** | [Write a short, clear description of what your project does.] | React, Tailwind CSS | [GitHub Repo](https://github.com/bityiju/your-repo-name-1) |
+| **[Your Project Name 2]** | [Write a short, clear description of what your project does.] | JavaScript, HTML, CSS | [Live Demo](https://bityiju.github.io/your-repo-name-2/) • [GitHub Repo](https://github.com/bityiju/your-repo-name-2) |
+| **[Your Project Name 3]** | [Write a short, clear description of what your project does.] | React, REST API | [GitHub Repo](https://github.com/bityiju/your-repo-name-3) |
+
+---
+
+### 📊 My GitHub Stats
+
+![Bity's GitHub stats](https://github-readme-stats.vercel.app/api?username=bityiju&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bityiju&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
