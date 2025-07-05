@@ -28,20 +28,15 @@
         <a href="mailto:bityruthy@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-        <a href="assets/resume.pdf" target="_blank">
+         <a href="Bity_Iju_resume.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Download-CV-13B5B1?style=for-the-badge" alt="Download CV">
         </a>
       </p>
       
     </td>
     <td align="center" width="300px">
-      <!-- 
-        IMPORTANT:
-        1. Create a profile picture with a hexagon frame (use Canva!).
-        2. Upload it to an 'assets' folder in your repository.
-        3. Make sure the path below matches your file.
-      -->
-      <img src="assets/profile-pic.png" alt="Fidelis Bitrus Ijudona" height="250" />
+      <!-- The link is now directly to the file in your root directory -->
+      <img src="profile-pic.png" alt="Fidelis Bitrus Ijudona" height="250" />
     </td>
   </tr>
 </table>
