@@ -28,14 +28,16 @@
         <a href="mailto:bityruthy@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-         <a href="Bity_Iju_resume.pdf" target="_blank">
+      </p>
+      <!-- CV Button -->
+      <p align="left">
+        <a href="Bity_Iju_resume.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Download-CV-13B5B1?style=for-the-badge" alt="Download CV">
         </a>
       </p>
-      
     </td>
     <td align="center" width="300px">
-      <!-- The link is now directly to the file in your root directory -->
+      <!-- I've updated this to use your exact filename -->
       <img src="your-profile-picture.jpg" alt="Fidelis Bitrus Ijudona" height="250" />
     </td>
   </tr>
@@ -122,5 +124,3 @@ I'm always open to connecting and discussing new projects. Feel free to reach ou
 
 - **Email:** `bityruthy@gmail.com`
 - **LinkedIn:** [linkedin.com/in/bity-iju](https://linkedin.com/in/bity-iju)
-
-<br>
