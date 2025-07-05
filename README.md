@@ -14,8 +14,8 @@ I am a detail-oriented developer focused on crafting intuitive and engaging user
 
 - 🌱 I’m currently deepening my knowledge in **Next.js and TypeScript**.
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, and creating responsive designs**.
-- 📫 How to reach me: **bity.iju.dev@email.com** <!-- Change this to your actual email -->
-- 📄 You can view my resume here: [**My Resume**](./Bity_Iju_Resume.pdf) <!-- Don't forget to upload your resume PDF! -->
+- 📫 How to reach me: **bityruthy@email.com** <!-- Change this to your actual email -->
+- 📄 You can view my resume here: [**My Resume**](./Bity_Iju_resume.pdf) <!-- Don't forget to upload your resume PDF! -->
 
 ---
 
